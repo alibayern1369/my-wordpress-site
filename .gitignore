@@ -1,0 +1,5 @@
+wp-content/uploads
+backup.sql
+db_data
+*.sql
+
